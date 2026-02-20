@@ -11,14 +11,10 @@ A Sega Mega Drive / Genesis homebrew project that lets you browse and read Bible
 
 ## Screenshots
 
-<p align="center">
-  <img src="screenshots/screenshot-01.png" width="48%" alt="Book selection screen" />
-  <img src="screenshots/screenshot-02.png" width="48%" alt="Chapter selection screen" />
-</p>
-<p align="center">
-  <img src="screenshots/screenshot-03.png" width="48%" alt="Reading mode with verse text" />
-  <img src="screenshots/screenshot-04.png" width="48%" alt="Reading mode navigation" />
-</p>
+|  |  |
+|---|---|
+| <img src="screenshots/screenshot-01.png" width="320" height="224" alt="Book selection screen" /> | <img src="screenshots/screenshot-02.png" width="320" height="224" alt="Chapter selection screen" /> |
+| <img src="screenshots/screenshot-03.png" width="320" height="224" alt="Reading mode with verse text" /> | <img src="screenshots/screenshot-04.png" width="320" height="224" alt="Reading mode navigation" /> |
 
 ## Requirements
 
